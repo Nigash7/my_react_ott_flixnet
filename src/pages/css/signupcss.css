@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.head1{
+    width:100vw; 
+    height:100vh;
+     display:flex;
+     flex-direction: column;
+    
+    
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('./backgroundsignup.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+
+    
+   
+   
+    
+}
+#fom{
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+
+    color: white;
+    background-color: rgba(0, 0, 0, 0.507);
+}
+
+.form-control{
+    background-color: rgba(253, 253, 253, 0.562);
+    color: black;
+}
+.form-control::placeholder{
+    color: black;
+}

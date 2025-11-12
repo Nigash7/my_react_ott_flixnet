@@ -1,0 +1,52 @@
+@media screen and (max-width: 576px) { .navbaru{
+    display: none;
+    
+    
+  }}
+@media screen and (min-width: 576px) { .nn,.imgh{
+    display: none;
+  }
+    
+}
+.imgh{
+  display: inline;
+
+}
+.nn {
+  text-decoration: none;
+  list-style: none;
+
+   padding:10px;
+}
+.ni{
+  position: fixed;
+  top: 0;
+  right: 0; 
+  height: 100vh;
+  z-index:1000;
+  background-color: rgba(255, 255, 255, 0.597);
+  box-shadow: 10px 0 10px rgb(0, 0,0,0.1);
+  width: 300px;
+
+
+
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbaru2{
+  display:flex;
+  flex-direction: column;
+}
+.li{
+  width: 100vw;
+  height: 100%;
+  padding: 20px;
+  color: black;
+}
+.li:hover{
+  background-color: rgba(0, 0, 0, 0.509);
+  color:white;
+  
+}
