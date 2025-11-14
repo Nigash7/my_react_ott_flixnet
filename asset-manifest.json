@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my_react_ott_flixnet/static/css/main.a5d2293c.css",
+    "main.js": "/my_react_ott_flixnet/static/js/main.df199d27.js",
+    "static/js/453.d7446e4a.chunk.js": "/my_react_ott_flixnet/static/js/453.d7446e4a.chunk.js",
+    "static/media/j2.jpg": "/my_react_ott_flixnet/static/media/j2.2967e637d908d2752645.jpg",
+    "static/media/j3.jpg": "/my_react_ott_flixnet/static/media/j3.110e957460b5b8bafb1c.jpg",
+    "static/media/j1.jpg": "/my_react_ott_flixnet/static/media/j1.aabe189a2901636223e5.jpg",
+    "static/media/787499.jpg": "/my_react_ott_flixnet/static/media/787499.3551a143f594d715c4ef.jpg",
+    "static/media/backgroundsignup.jpg": "/my_react_ott_flixnet/static/media/backgroundsignup.6217a8dd203187862cd1.jpg",
+    "static/media/flixnet.png": "/my_react_ott_flixnet/static/media/flixnet.4a7f2e24156e41c64153.png",
+    "static/media/logo.svg": "/my_react_ott_flixnet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my_react_ott_flixnet/index.html",
+    "main.a5d2293c.css.map": "/my_react_ott_flixnet/static/css/main.a5d2293c.css.map",
+    "main.df199d27.js.map": "/my_react_ott_flixnet/static/js/main.df199d27.js.map",
+    "453.d7446e4a.chunk.js.map": "/my_react_ott_flixnet/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d2293c.css",
+    "static/js/main.df199d27.js"
+  ]
+}
